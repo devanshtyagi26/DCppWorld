@@ -1,0 +1,35 @@
+==== Student 1 ====
+Roll No.: 1204
+Name: Devansh Tyagi
+Class: 12
+Year: 2023
+Marks: 100
+
+==== Student 2 ====
+Roll No.: 1207
+Name: Bhanu
+Class: 11
+Year: 2022
+Marks: 96
+
+==== Student 3 ====
+Roll No.: 1209
+Name: Chirag
+Class: 11
+Year: 2023
+Marks: 78
+
+==== Student 4 ====
+Roll No.: 1254
+Name: Anurag
+Class: 10
+Year: 2020
+Marks: 45
+
+==== Student 5 ====
+Roll No.: 1288
+Name: Lavee
+Class: 11
+Year: 2021
+Marks: 79
+
